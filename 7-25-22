@@ -1,15 +1,1 @@
-var1=("Hello, my name is")
-var2=("gabriel campillo")
-var3=(", how are you doing today?")
-print (var1, var2, var3)
 
-var4 = 16
-var5 = (50-var4)
-print ("Hello, my name is gabriel campillo ands I am", var4, "years old. In", var5, "I will be 50 years old")
-
-print("Hello world")
-
-x=6000
-y=5
-
-print (x*y)
